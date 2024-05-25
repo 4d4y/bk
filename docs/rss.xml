@@ -1,2 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Blog Title</title><link>https://4d4y.github.io/bk</link><description>Blog description</description><copyright>Blog Title</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://4d4y.github.io/bk</link></image><lastBuildDate>Sat, 25 May 2024 14:13:12 +0000</lastBuildDate><managingEditor>Blog Title</managingEditor><ttl>60</ttl><webMaster>Blog Title</webMaster></channel></rss>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Blog Title</title><link>https://4d4y.github.io/bk</link><description>Blog description</description><copyright>Blog Title</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://4d4y.github.io/bk</link></image><lastBuildDate>Sat, 25 May 2024 14:22:20 +0000</lastBuildDate><managingEditor>Blog Title</managingEditor><ttl>60</ttl><webMaster>Blog Title</webMaster><item><title>第一次</title><link>https://4d4y.github.io/bk/post/di-yi-ci.html</link><description># 第一次尝试&#13;
+markdown 语法&#13;
+* * 斜体&#13;
+** 粗体&#13;
+&gt; 引用文本&#13;
+。</description><guid isPermaLink="true">https://4d4y.github.io/bk/post/di-yi-ci.html</guid><pubDate>Sat, 25 May 2024 14:12:48 +0000</pubDate></item></channel></rss>
